@@ -1,15 +1,9 @@
+[← Volver al inicio](README.md)
 # Temas del curso
 
-Aquí van las entradas sobre lo que va pasando fuera de clase: una noticia, un artículo,
-algo que ha salido y tiene que ver con lo que estamos dando.
+### 18/09 — Natación
 
-Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez líneas de máximo.
-
-```
-### Título del tema — fecha
-
-**De dónde sale:** el artículo, vídeo o noticia (pon el enlace).
-**La frase que me chocó:** cópiala tal cual, entre comillas.
-**Por qué me chocó a mí:** aquí es donde escribes tú.
-**Qué tiene que ver con clase:** con qué actividad o tema lo relacionas.
-```
+Pues ahora no hago nada pero voy a empezar el gymnasio pero antes hacia 
+natación la cual practique en diciembre hasta marzo ya que me iba a meter al gymnasio
+pero no he ido casi, natación me gusto mucho pero no era algo que me agradaba,
+iba los lunes, miércoles y viernes.
