@@ -10,6 +10,7 @@ hago en Tecnologías Digitales Aplicadas: qué construí, dónde me atasqué y c
 
 | Dónde | Qué hay |
 [← Volver al inicio](README.md)
+
 | [Primer trimestre](trimestre-1.md) | Mis entradas de septiembre a diciembre |
 | [Segundo trimestre](trimestre-2.md) | Mis entradas de enero a marzo |
 | [Tercer trimestre](trimestre-3.md) | Mis entradas de abril a junio |
