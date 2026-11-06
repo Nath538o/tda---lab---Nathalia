@@ -19,4 +19,5 @@ iba los lunes, miércoles y viernes.
 [curso de natación](https://github.com/gmadridsports/app-natacion)
 ### 16/10/2026 - Ada Lovelace
 [Ada Lovelace](https://es.wikipedia.org/wiki/Ada_Lovelace)fue una matemática y escritora británica, se celebra su día por su duro trabajo sobre la computadora mecánica de uso general y fue dominada como maquina analítica. Fue la primera en asumir que la computadora tenia mas aplicaciones más allá del calculo puro y en haberlo publicado se reconoce hoy como el primer algoritmo destinado a ser procesado por una maquina.su celebración se hace cada año el segundo martes de octubre para reconocer el aporte de Ada Lovelace a la ciencia, la tecnología, la ingeniería y las matemáticas y para visibilizar el papel de las mujeres en estos campos.
-![Ada Lovelace foto](capturas/ada.png){: width="300"}
+![Ada Lovelace foto](capturas/adaaa.png){: width="300"}
+*PIE DE FOTO. Imagen: Antoine Claudet, [Wikimedia Commons](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png/250px-Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)*
